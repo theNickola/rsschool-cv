@@ -26,22 +26,22 @@ German: A1<br/>
 
 ## Education
 **RS School**<br/>
-JS / FRONT-END<br/>
-Dec 2022, currently studying<br/>
+*JS / FRONT-END<br/>
+Dec 2022, currently studying<br/>*
 <br/>
 **SKILLUP (Ukraine)**<br/>
-Professional education: quality assurance (manual)<br/>
-Mar 2022 - Aug 2022<br/>
+*Professional education: quality assurance (manual)<br/>
+Mar 2022 - Aug 2022<br/>*
 <br/>
 **Belarusian State Pedagogical University Named after Maxim Tank (BSPU)**<br/>
-Master's degree, Theory and methodology of training and education (Informatics)<br/>
-Sep 2013 - Jul 2014<br/>
+*Master's degree, Theory and methodology of training and education (Informatics)<br/>
+Sep 2013 - Jul 2014<br/>*
 <br/>
 **Sector of course preparation (BSPU)**<br/>
-C++ programming language<br/>
-Okt 2009 - Mai 2010<br/>
+*C++ programming language<br/>
+Okt 2009 - Mai 2010<br/>*
 <br/>
 **Belarusian State Pedagogical University Named after Maxim Tank (BSPU)**<br/>
-Bachelor's degree, Teacher (Mathematics. Informatics)<br/>
+*Bachelor's degree, Teacher (Mathematics. Informatics)<br/>
 Sep 2008 - Jul 2013<br/>
-<br/>
+<br/>*
