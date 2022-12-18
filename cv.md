@@ -15,7 +15,7 @@ I like to solve complex problems, learn new tools. Previous experience in the fi
 - HTML&CSS
 - MySQL
 - DataBases
-- QA/QC
+- QA/QC manual
 - TestRail
 - Jira
 
@@ -43,5 +43,23 @@ Okt 2009 - Mai 2010<br/>*
 <br/>
 **Belarusian State Pedagogical University Named after Maxim Tank (BSPU)**<br/>
 *Bachelor's degree, Teacher (Mathematics. Informatics)<br/>
-Sep 2008 - Jul 2013<br/>
-<br/>*
+Sep 2008 - Jul 2013*<br/>
+<br/>
+
+## Code Example
+**С#**
+```
+public class CustomMath
+{
+    public static int multiply(int a, int b) 
+    {
+        return a * b;
+    }
+}
+```
+**JavaScript**
+```
+function multiply(a, b){
+        return a * b
+    }
+```

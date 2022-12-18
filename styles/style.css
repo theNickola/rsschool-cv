@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 25px;
+    padding-top: 0.4em;
+    font: bold italic 4.5em 'monotype coursive';
+    text-shadow: 0 0 7px #666;
+  }
+
+h2 {
+    margin-top: 1em;
+    line-height: 0em;
+  }
+
+h3 {
+    margin: 25px 0 0 0;
+    padding: 0;
+    line-height: 1em;
+  }
+
+p {
+    margin-top: 0;
+  }
+
+ul.nav {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    text-align: center;
+  }
+
+ul.nav li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px;
+    line-height: 2em;
+    background-color: rgb(243, 234, 234);
+    padding: 5px;
+  }
+
+ul.contacts {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    text-align: center;
+  }
+
+ul.contacts li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px;
+    line-height: 2em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3em;
+    padding: 10px;
+    box-shadow: 0 0 7px #666;
+  }
+
+pre {
+    margin: 0; 
+    font-size: 17px;
+  }
+
+.foto {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 30px 7px 0;
+    width: 120px;
+    border-radius: 100px;
+    box-shadow: 0 0 7px #666;
+  }
+
+header {
+    margin-left: 20%; 
+    margin-right: 20%;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 60%;
+    border-radius: 1em;
+    background-color: #c7c7d6; 
+  }
+
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 60%;
+    border-radius: 1em;
+    background-color: #dfdff0; 
+  }
+
+footer {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+    width: 60%; 
+    border-radius: 1em;
+    background-color: #c7c7d6; 
+  }
